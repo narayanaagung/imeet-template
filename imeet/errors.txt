@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 107: if statement expects a non-empty block.
+    if route == "a1":
+                     ^
+
+File "game/script.rpy", line 116: if statement expects a non-empty block.
+    if route == "b1":
+                     ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Mon Jun 15 23:31:51 2020
